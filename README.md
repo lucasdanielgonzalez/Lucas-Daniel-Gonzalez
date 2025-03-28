@@ -5,7 +5,7 @@ expanding my knowledge in both front-end and back-end development.
 - I’m currently learning ...
   - Python
   - PHP
-- 📫 Reach out: <a href="lucadanielgonzalez@gmail.com"> lucadanielgonzalez@gmail.com</a>
+- 📫 contact me: <a href="lucadanielgonzalez@gmail.com"> lucadanielgonzalez@gmail.com</a>
 
 <h4> Languages </h4>
 <span> 
