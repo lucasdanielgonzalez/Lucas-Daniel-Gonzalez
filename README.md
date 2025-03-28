@@ -2,8 +2,9 @@
 <!--  -->
 
 
-I am a Tecnico Superior en Analista de Sistemas, expanding my knowledge in both front-end and back-end development.
-- 🌱 I’m currently learning ...
+Hola bienvenido a mi github me Llamo Lucas Daniel Gonzalez y soy tecnico superior en Analista de Sistemas,
+expanding my knowledge in both front-end and back-end development.
+- I’m currently learning ...
   - Python
   - PHP
 - 📫 Reach out to me at: <a href="lucadanielgonzalez@gmail.com"> lucadanielgonzalez@gmail.com</a>
