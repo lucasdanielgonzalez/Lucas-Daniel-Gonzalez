@@ -1,8 +1,6 @@
 <h1 align="center"><b>Hi , I'm Lucas Daniel Gonzalez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
 
-
-Hola bienvenido a mi github me Llamo Lucas Daniel Gonzalez y soy tecnico superior en Analista de Sistemas,
+Hola bienvenido a mi repositorio me Llamo Lucas Daniel Gonzalez y soy tecnico superior en Analista de Sistemas,
 expanding my knowledge in both front-end and back-end development.
 - I’m currently learning ...
   - Python
