@@ -6,7 +6,6 @@ I am a Tecnico Superior en Analista de Sistemas, expanding my knowledge in both 
 - 🌱 I’m currently learning ...
   - Python
   - PHP
-- ✔ Ask me about anything, I am happy to help<br>
 - 📫 Reach out to me at: <a href="lucadanielgonzalez@gmail.com"> lucadanielgonzalez@gmail.com</a>
 
 <h4> Languages </h4>
